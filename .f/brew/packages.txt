@@ -1,0 +1,9 @@
+antigen
+git
+htop
+lastpass-cli
+nmap
+openshift-cli
+pyenv
+tree
+zsh

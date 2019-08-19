@@ -27,3 +27,5 @@ zstyle :bracketed-paste-magic paste-finish pastefinish
 
 # https://github.com/zsh-users/zsh-autosuggestions/issues/351
 ZSH_AUTOSUGGEST_CLEAR_WIDGETS+=(bracketed-paste)
+
+alias dotf='/usr/bin/git --git-dir=$HOME/.f/.git/ --work-tree=$HOME'

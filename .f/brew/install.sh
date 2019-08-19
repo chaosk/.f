@@ -5,5 +5,5 @@ if [[ $(command -v brew) == "" ]]; then
     /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 fi
 
-xargs brew install < packages.txt
-xargs brew cask install < casks.txt
+xargs brew install < "${BASH_SOURCE%/*}/packages.txt"
+xargs brew cask install < "${BASH_SOURCE%/*}/casks.txt"

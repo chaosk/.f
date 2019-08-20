@@ -2,6 +2,7 @@ antigen
 git
 htop
 lastpass-cli
+mackup
 nmap
 openshift-cli
 pyenv

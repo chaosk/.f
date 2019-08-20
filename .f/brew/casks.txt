@@ -1,5 +1,7 @@
 alfred
 docker
+google-backup-and-sync
 google-chrome
 iterm2
+karabiner-elements
 sublime-text

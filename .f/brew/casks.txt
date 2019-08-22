@@ -2,6 +2,7 @@ https://raw.githubusercontent.com/Homebrew/homebrew-cask/64e9549b65c5a84632dc345
 bettertouchtool
 docker
 flycut
+gitup
 google-backup-and-sync
 google-chrome
 iterm2

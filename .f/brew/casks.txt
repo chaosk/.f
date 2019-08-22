@@ -6,4 +6,5 @@ google-backup-and-sync
 google-chrome
 iterm2
 karabiner-elements
+slack
 sublime-text
